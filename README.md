@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Arduino 
 - 💞️ I’m looking to collaborate on ambient monitoring with Arduino
 - 📫 How to reach me marcelo.cury@gmail.com
+- Ham Radio PY1TTO - Brazil, Sao Paulo
 
 <!---
 MarceloCury/MarceloCury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
