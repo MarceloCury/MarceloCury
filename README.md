@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarceloCury
 - 👀 I’m interested in ambient monitoring 
-- 🌱 I’m currently learning Arduino 
+- 🌱 I’m currently learning Arduino an Python
 - 💞️ I’m looking to collaborate on ambient monitoring with Arduino
 - 📫 How to reach me marcelo.cury@gmail.com
 - Ham Radio PY1TTO - Brazil, Sao Paulo
